@@ -15,6 +15,11 @@ The following warning messages should be ignored:
 # Project Description
 A simple package which includes functions which display menu, take in your order and prints your cost. This is essentially useless but I did use the accurate prices from my local Tampa, FL Chipotle.
 
+# Functions
+`````r
+menuDisplay()
+orderBowl(meat, rice, bean, top, extraTop)
+`````
 Example
 -------
 This is an example of my Chipotle in R.
