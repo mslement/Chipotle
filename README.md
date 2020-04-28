@@ -25,14 +25,15 @@ Example
 This is an example of my Chipotle in R.
 
 `````r
-> menuDisplay()
+> Chipotle::menuDisplay()
 [1] "Fill your bowl!"
 [1] "Meats: 1. Chicken($7.00)    2. Steak($8.00)    3. Veggie($7.00)"
 [1] "Rice: 1. White     2. Brown"
 [1] "Beans: 1. Black    2. Pinto"
 [1] "Toppings: 1. Salsa     2. Lettuce     3. Sour Cream     4. Cheese"
 [1] "Extra Toppings: 1. Guacamole($2.25)     2. Queso($1.25)     3. None"
-> orderBowl(1, 1, 1, 2, 2)
+[1] "Order Example: orderBowl(1, 1, 1, 2, 2)"
+> Chipotle::orderBowl(1, 1, 1, 2, 2)
 [1] "The total cost for your Chipotle bowl is:"
 [1] 8.25
 `````
