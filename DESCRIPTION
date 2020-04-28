@@ -1,0 +1,12 @@
+Package: Chipotle
+Title: Chipotle Menu, Order and Cost
+Version: 0.1.0
+Author: Michelle Slement <mslement@usf.edu>
+Maintainer: Michelle Slement <mslement@usf.edu>
+Description: Functions which display menu, take in your order and prints your cost.
+Depends: R (>= 3.0.1)
+License: CCO
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
